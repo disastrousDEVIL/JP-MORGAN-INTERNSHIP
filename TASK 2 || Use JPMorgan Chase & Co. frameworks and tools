@@ -94,7 +94,7 @@ export default App;
 Correct code of Graph.tsk (Backspace the previous code and paste all)  ----->
 
 import React, { Component } from 'react';
-import { Table } from '@jpmorganchase/perspective';
+import { Table } from '@finos/perspective';
 import { ServerRespond } from './DataStreamer';
 import './Graph.css';
  
